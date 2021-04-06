@@ -1,0 +1,6 @@
+﻿  utils.c
+c:\users\jaro\source\repos\polsl-aei-pk2\453aee88-gr22-repo\projekt\proj\proj\utils.c(444): warning C4101: "k": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\jaro\source\repos\polsl-aei-pk2\453aee88-gr22-repo\projekt\proj\proj\utils.c(444): warning C4101: "j": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\jaro\source\repos\polsl-aei-pk2\453aee88-gr22-repo\projekt\proj\proj\utils.c(343): warning C4715: "check_same_cols”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\jaro\source\repos\polsl-aei-pk2\453aee88-gr22-repo\projekt\proj\proj\utils.c(378): warning C4715: "check_same_rows”: niewszystkie ścieżki kodu zwracają wartość
+  Proj.vcxproj -> C:\Users\Jaro\source\repos\polsl-aei-pk2\453aee88-gr22-repo\Projekt\Proj\Debug\Proj.exe
